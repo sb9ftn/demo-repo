@@ -1,0 +1,2 @@
+This is new file.
+Added for demo of move and remove operations using git.
